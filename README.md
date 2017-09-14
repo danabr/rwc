@@ -1,4 +1,4 @@
-# Solution to Springworks waypoint challenge
+# Solution to Springworks' waypoint challenge
 
 ## Dependencies
 * nodejs, (tested with version 4.7.2)
